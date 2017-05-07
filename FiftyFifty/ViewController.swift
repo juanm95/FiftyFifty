@@ -8,7 +8,6 @@
 import AVFoundation
 import UIKit
 
-// KEK
 class ViewController: UIViewController {
     
     var songPlaying = ""
